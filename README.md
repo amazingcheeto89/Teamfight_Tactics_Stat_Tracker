@@ -1,2 +1,1 @@
 # Teamfight_Tactics_Stat_Tracker
-tilted
